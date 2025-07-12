@@ -1,0 +1,13 @@
+
+
+
+.main-artwork
+{
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    background-color: rgb(192, 192, 192);
+    height: 300px;
+    margin-top: 20px;
+    border: rgb(0, 0, 0) solid 4px;
+}
